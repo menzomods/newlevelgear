@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Quests">
+        <node id="root">
+            <children>
+                <node id="Quest">
+                    <attribute id="CategoryID" type="FixedString" value="SetupQuest"/>
+                    <attribute id="ParentQuestID" type="FixedString" value=""/>
+                    <attribute id="QuestGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="QuestID" type="FixedString" value="KENlevel2Quest"/>
+                    <attribute id="QuestRewardTarget" type="uint8" value="2"/>
+                    <attribute id="QuestTitle" type="TranslatedString" handle="hb87c7541ga2bfg0cd7g59e9ge02b904be007" version="1"/>
+                    <attribute id="QuestVisiblity" type="bool" value="true"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+                <node id="Quest">
+                    <attribute id="CategoryID" type="FixedString" value="SetupQuest"/>
+                    <attribute id="ParentQuestID" type="FixedString" value=""/>
+                    <attribute id="QuestGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="QuestID" type="FixedString" value="KENlevel3Quest"/>
+                    <attribute id="QuestRewardTarget" type="uint8" value="2"/>
+                    <attribute id="QuestTitle" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0"/>
+                    <attribute id="QuestVisiblity" type="bool" value="true"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+                <node id="Quest">
+                    <attribute id="CategoryID" type="FixedString" value="SetupQuest"/>
+                    <attribute id="ParentQuestID" type="FixedString" value=""/>
+                    <attribute id="QuestGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="QuestID" type="FixedString" value="KENlevel4Quest"/>
+                    <attribute id="QuestRewardTarget" type="uint8" value="2"/>
+                    <attribute id="QuestTitle" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0"/>
+                    <attribute id="QuestVisiblity" type="bool" value="true"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+                <node id="Quest">
+                    <attribute id="CategoryID" type="FixedString" value="SetupQuest"/>
+                    <attribute id="ParentQuestID" type="FixedString" value=""/>
+                    <attribute id="QuestGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="QuestID" type="FixedString" value="KENlevel5Quest"/>
+                    <attribute id="QuestRewardTarget" type="uint8" value="2"/>
+                    <attribute id="QuestTitle" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0"/>
+                    <attribute id="QuestVisiblity" type="bool" value="true"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+                <node id="Quest">
+                    <attribute id="CategoryID" type="FixedString" value="SetupQuest"/>
+                    <attribute id="ParentQuestID" type="FixedString" value=""/>
+                    <attribute id="QuestGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="QuestID" type="FixedString" value="KENlevel6Quest"/>
+                    <attribute id="QuestRewardTarget" type="uint8" value="2"/>
+                    <attribute id="QuestTitle" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0"/>
+                    <attribute id="QuestVisiblity" type="bool" value="true"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+                <node id="Quest">
+                    <attribute id="CategoryID" type="FixedString" value="SetupQuest"/>
+                    <attribute id="ParentQuestID" type="FixedString" value=""/>
+                    <attribute id="QuestGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="QuestID" type="FixedString" value="KENlevel7Quest"/>
+                    <attribute id="QuestRewardTarget" type="uint8" value="2"/>
+                    <attribute id="QuestTitle" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0"/>
+                    <attribute id="QuestVisiblity" type="bool" value="true"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
