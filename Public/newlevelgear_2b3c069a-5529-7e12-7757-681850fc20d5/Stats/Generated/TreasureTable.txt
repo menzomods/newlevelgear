@@ -1,0 +1,567 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "KENSETUP_BASE_CONT_Movable_Chest_TT"
+CanMerge 1
+IgnoreLevelDiff 1
+new subtable "20,1"
+object category "I_OBJ_Scroll_Revivify_TrueResurrection",1,0,0,0,0,0,0,0
+new subtable "20000,5"
+object category "Gold",1,0,0,0,0,0,0,0
+new treasuretable "KENSETUP_TREASURE_BASE_Humans_Female_Harper_000_TT"
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Fire_HeatOnFireDamage_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Frost_Frostbite_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Drowelf_SpiderSnare_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_Quest_SCL_MoonlanternWithPixie",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Shadow_FogCloud_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Radiant_RadiatingOrb_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_SCL_MastiffPoachers_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Harpers_RingOfTwilight",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Harpers_ShieldsOfShadows",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_PassWithoutTrace_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Psychic_MentalOverload_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Druid_IronWood_Club",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Fire_SelfImmolation_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Raven_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_SCL_MAG_SkepticalRobber_WifesRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Shadow_StealthBonusWhileObscured_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_BG_OfDevotion_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_FlamingFist_StaffOfFire",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Harpers_HarpersAmulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_FlamingFist_BattleWizardGloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_OfTheBalancedHands_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Heat_Fire_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_BarbMonk_Cloth_A_1_Late",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_CKM_SerpenScale_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Harpers_ArmorOfShadows",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Druid_Late_Hide_Armor_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Monk_Magic_Hat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_PHB_Defender_Greataxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_PHB_CloakOfProtection_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_PHB_OfLifestealing_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_OfSwordmaster_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_BG_Darkfire_Shortbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_BG_Harmonium_Halberd",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Bonded_Shocking_Warhammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Fire_HeatOnWeaponDamage_Battleaxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Shadow_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_HAV_ThornBlade_Scimitar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Lesser_Infernal_Metal_Helmet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Lesser_Infernal_Plate_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Lesser_Infernal_Metal_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Evasive_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Shadow_FogOfCloudDisengage_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_ShapeshiftersBurgeon_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Fire_ArcaneAcuityOnFireDamage_Hat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_ZOC_ForceConduit_ChainMail",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_HAV_Sylvan_Scimitar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_CharismaCaster_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_OfAutomaton_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Acrobat_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Harpers_RingOfAttraction",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Frost_GenerateSurfaceOnColdDamage_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Selunite_Isobel_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Harpers_JhannylGloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_FlamingFist_ScoutRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Radiant_RadiatingOrb_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Shadow_CriticalBoostWhileObscured_Helmet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_FlamingFist_Flaming_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_TWN_Taxblade_Morningstar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Toll_Collector_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Druid_Ironvine_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Gish_ArcaneAcuity_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Fire_HeatOnTakingFireDamage_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_UNI_TWN_WPN_HUM_NailBat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Fire_HeatOnTakingFireDamage_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_UNI_TWN_WPN_HUM_NailBat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Acid_NoxiousFumes_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_TWN_Brewery_Greatclub",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_DEN_Apprentice_DaggerOfShar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_ElementalGish_ArcaneAcuity_Helmet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_TWN_BondedByLove_WifesRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_TWN_BootsOfApparentDeath",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Frost_GenerateFrostOnDamage_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Kuotoa_Lightning_Spear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Githborn_MagicEating_HalfPlate",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Githborn_MageHandSupport_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_TWN_ShieldOfWatcher",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_TWN_ShortswordOfStealth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_TWN_BondedByLove_HusbandsRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_TWN_NecklaceOfCharming",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_TWN_Surgeon_ParalyzingCritical_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Poison_PoisonExposure_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_BlackTentacle_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_TWN_Tollhouse_TradersRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_CQCaster_GainArcaneChargeOnDamaged_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Shadow_BlindImmunity_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Acid_AcidMeleeCounter_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Shadow_ShadowBlade_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_CQCaster_TempHPAfterCast_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Shadow_Blinding_Bow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_WPN_Merregon_Halberd",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Orthon_Hellfire_HandCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Bard_RefreshBardicInspirationSlot_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Justiciar_Scimitar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Justiciar_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Myrkulites_CircletOfMyrkul_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Critical_CriticalExecution_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_DarkJusticiar_HalfPlate",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_SHA_SharSpear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_UNI_DarkJusticiar_Helmet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Moonlight_Glaive",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_UNI_DarkJusticiarArmor_HalfPlate",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_JusticiarArmor_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_UNI_SHA_DarkJusticiar_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_SHA_SharBlessing_Spear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_SHA_SeluneBlessing_Spear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Restoration_SpellSlotRestoration_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_CQCaster_SpellDCBonusWhileThreatened_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Druid_Late_Hide_Armor_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_BG_OfCrushing_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Paladin_RestoreChannelDivinity_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_BG_DragonsBreath_Glaive",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_MagicMissile_HandCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Poison_PoisonLethality_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Thunder_InflictDazeOnThunderDamage_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_ofMarksmanship_Hat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_PoR_OfVigilance_Halberd",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_OfTheDuelist_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_PHB_Sentinel_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Barbarian_Magic_Armor_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_BarbMonk_Cloth_Hat_A_1_Late",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Combat_Quarterstaff",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_StrongString_Longbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Slicing_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Fighter_ActionSurge_AttackBonus_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_ARM_Splint_Body_Dwarven",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Blindside_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_BonusAttack_AgainstMarked_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_CQCaster_ArcaneChargeAfterDash_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_RiskyAttack_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_PHB_OfFreeAction_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_OfArcanicAssault_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Thunder_ArcaneAcuityOnThunderDamage_Hat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Absolute_Protecter_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Poison_Greatclub",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_UNI_SuperheavyWeapon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Poison_InflictPoisonHealSelf_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Frost_GenerateFrostOnStatusApply_Hat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_Quest_GLO_Moonlantern_Gale",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_ElementalGish_AbsorbElements_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_WPN_SkullFlail_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Myrkulites_RingofMyrkul_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Illithid_MindOverload_Weapon_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Illithid_Regen_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Psychic_MentalFatigue_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_ORI_Wyll_Infernal_Rapier",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Ketheric_Warhammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MOO_Ketheric_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Ketheric_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_MAG_Cleric_Devotees_Mace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+object category "I_ARM_Shield_1",1,0,0,0,0,0,0,0
+new treasuretable "KENSETUP_SCROLLTREASURE_TT"
+CanMerge 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_AcidArrow",1,0,0,0,0,0,0,0
+new subtable "5,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_Blur",1,0,0,0,0,0,0,0
+new subtable "5,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_BurningHands",1,0,0,0,0,0,0,0
+new subtable "5,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_CharmPerson",1,0,0,0,0,0,0,0
+new subtable "5,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_ColorSpray",1,0,0,0,0,0,0,0
+new subtable "5,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_FeatherFall",1,0,0,0,0,0,0,0
+new subtable "5,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_FireBolt",1,0,0,0,0,0,0,0
+new subtable "5,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_GuidingBolt",1,0,0,0,0,0,0,0
+new subtable "5,1"
+StartLevel "1"
+object category "I_OBJ_Scroll_HoldPerson",1,0,0,0,0,0,0,0
+new treasuretable "KENSETUP_POTIONTREASURE_TT"
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Healing",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Healing_Greater",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Healing_Superior",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Healing_Supreme",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Of_Animal_Speaking",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_ALCH_Solution_Potion_DetectThoughts",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_ALCH_Solution_Potion_FeatherFall",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_ALCH_Solution_Potion_Jump",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Gaseous_Form",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Of_Speed",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Of_Invisibility",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Antitoxin",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_ALCH_Solution_Potion_Remedy",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_ALCH_Solution_Potion_Flying",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Of_Fire_Resistance",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Of_Lightning_Resistance",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Of_Poison_Resistance",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Of_Acid_Resistance",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Of_Cold_Resistance",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_OBJ_Potion_Of_Force_Resistance",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_ALCH_Solution_Elixir_Meditation",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_ALCH_Solution_Elixir_Meditation_Greater",1,0,0,0,0,0,0,0
+new subtable "20,1"
+StartLevel "1"
+object category "I_ALCH_Solution_Elixir_Meditation_Superior",1,0,0,0,0,0,0,0

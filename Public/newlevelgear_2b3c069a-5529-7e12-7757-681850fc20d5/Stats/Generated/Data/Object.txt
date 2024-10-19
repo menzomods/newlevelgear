@@ -1,0 +1,8 @@
+new entry "KENSETUP_BASE_CONT_Movable_Chest"
+type "Object"
+using "_Container"
+data "RootTemplate" "ca9e08c1-de87-4167-8a4b-1bbb4a049788"
+data "Weight" "-500"
+data "Unique" "0"
+data "MinLevel" "1"
+
