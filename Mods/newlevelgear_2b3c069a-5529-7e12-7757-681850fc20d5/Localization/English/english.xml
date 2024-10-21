@@ -19,10 +19,10 @@
   <content contentuid="he9dfd047gfcd9gbbc7g85b5gfef79b69d59a" version="3">Chest</content>
   <content contentuid="h42ac2cc1g1136gea40g27f0gcee9d867d0c9" version="1">Lorroakan</content>
   <content contentuid="h5df0caacg1cd6gbd0dgceeeg3a187ee4c6d1" version="2">Halfling</content>
-  <content contentuid="h4e81ea03g4613g4891g8dddg5acf7b6858cb" version="3">Act 1 Vendor</content>
+  <content contentuid="h4e81ea03g4613g4891g8dddg5acf7b6858cb" version="4">Act 1 Vendor</content>
   <content contentuid="h29a692b2gcd9fg7682g0c2eg508c81b21f22" version="1">Arabella</content>
   <content contentuid="h309b739agff8eg1aafgaa62g70ea7b54dabf" version="2">Spell Scrolls Vendor</content>
-  <content contentuid="ha4dd7827g9be5geb10g98bcgbfa651f3832f" version="2">Act 3 Vendor</content>
+  <content contentuid="ha4dd7827g9be5geb10g98bcgbfa651f3832f" version="3">Act 3 Vendor</content>
   <content contentuid="hfb06d096g6d4dg3e72g6ffbgdca2c4b1c705" version="13">Act 2 Vendor</content>
   <content contentuid="h75ea9690g9df6gd4dbge22eg683def32a085" version="2">Potion Vendor</content>
   <content contentuid="h5594b9bag7806gf065ge281g04efaea7e5ab" version="1">Chest of Holding</content>
@@ -36,11 +36,25 @@
   <content contentuid="ha1584b88gb46bg823agfec3gfde1c5758270" version="1">yes</content>
   <content contentuid="h49f77585gf952ge6bege8aag2c9cd60b646f" version="1">Hello I'm here to sell you scrolls</content>
   <content contentuid="h7052c441g6f10ge778g2e0cge8d67d253aef" version="1">Okay</content>
-  <content contentuid="h948e4c5eg3434g7ed6g2614gf672a3cb4323" version="1">Good luck with the new level</content>
+  <content contentuid="h948e4c5eg3434g7ed6g2614gf672a3cb4323" version="2">Good luck with the new level</content>
   <content contentuid="h555a2ba2g8dc0g7840g19bfgdec319496a09" version="1">I want to trade</content>
-  <content contentuid="h608fb155g6f1ag4fb9g61aeg51c10dc8bb8b" version="1">What do you need?</content>
+  <content contentuid="h608fb155g6f1ag4fb9g61aeg51c10dc8bb8b" version="2">What do you need?</content>
   <content contentuid="hc71e1715g2efdgf011ga651g5656cda4a141" version="1">Why are some items missing from your inventory?</content>
   <content contentuid="ha07c2591g13aeg1795g5760gbf3ef33d0fa7" version="1"> Flawed Helldusk Armor, Psionic Ward Armor, Dark Justiciar Half-Plate, Armor of Devotion, Dwarven Splintmail, and Reaper's Embrace all require level 7 minimum.</content>
   <content contentuid="h93644871g6287g7e25g5af2ge25ae71c23bf" version="1">How do I bypass this requirement?</content>
   <content contentuid="hbf0c2d83g28b4g3e1ag6ac8g1f5aeb9b0e64" version="1">You can override the root template of these items by deriving from them.</content>
+  <content contentuid="h15bf112ag1d52gf0c0gd35bg313d78e57e66" version="1">I want to trade</content>
+  <content contentuid="h3a021b02g16d6g7a29g5d5ag4ca427ce80b0" version="1">Why are some items missing from your inventory?</content>
+  <content contentuid="h09100d66g0d46g9593g5e34g7e241c0698fc" version="1">Flawed Helldusk Armor, Psionic Ward Armor, Dark Justiciar Half-Plate, Armor of Devotion, Dwarven Splintmail, and Reaper's Embrace all require level 7 minimum.</content>
+  <content contentuid="h731d66b2g15ecgfe8fged2cgae42a3d59eaf" version="1">How do I bypass this requirement?</content>
+  <content contentuid="h88c70d99g6dc8gf8cdg5be8gd52b372ae3b9" version="1">You can override the root template of these items by deriving from them.</content>
+  <content contentuid="haeb83f20g906bgf178g6810g8e68556d2527" version="4">What are the level 7 items?</content>
+  <content contentuid="hc6143701ge309gd30dg69d6gf481b5197b97" version="4">I want to trade</content>
+  <content contentuid="h6eb1f2deg0328g0096gd422gff224e1b5b76" version="4">Armour of Agility, Armour of Persistence, Cerebral Citadel Armour, Blackguard's Plate, Emblazoned Plate of the Marshal, Flame Enamelled Armour.&lt;br&gt;You can override the root template of these items by deriving from them.</content>
+  <content contentuid="h29c3b651gd51ag7aeeg5f09gb857fe24b018" version="4">Why are some items missing from your inventory?</content>
+  <content contentuid="hb2ad3570g96bcgd284gf41agdfd3b009786b" version="4">Good luck with the new level</content>
+  <content contentuid="hebfcc0cdg89b4g8366ge954g16444939764a" version="4">What do you need?</content>
+  <content contentuid="hddb526b6g58d7g5cf2ga3f5g2542ee8210c1" version="4">Some items could not be spawned without root template override. These items are:  Staff of a Mumbling Wizard, Clown Hammer, Orphic Hammer, Long Arm of the Gur, and Bloodthirst. There are also several items with a minimum of level 7.</content>
+  <content contentuid="h84a59a4fgd3acg2dccgd4c5gc7047e7457ef" version="2">Sorry, my Treasuretable is empty.   Act 1 will be included in later updates.  You may access Arron's default treasure.</content>
+  <content contentuid="haca9c40ag751bgcb10g5bd2g4f9029cbe21e" version="2">leave</content>
 </contentList>
