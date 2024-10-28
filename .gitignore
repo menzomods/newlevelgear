@@ -4,9 +4,9 @@ SourceControlGenerator.json
 
 # Levels
 ######################
-Mods/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/Levels/*
-Mods/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/Globals/*
-Editor/Mods/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/Levels/*
+#Mods/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/Levels/*
+#Mods/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/Globals/*
+#Editor/Mods/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/Levels/*
 
 # Story files        #
 ######################
@@ -18,7 +18,7 @@ Mods/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/Story/Dialogs/Recovered/*
 
 # Asset Folders      #
 ######################
-Public/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/Assets/*
+#Public/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/Assets/*
 #Public/newlevelgear_2b3c069a-5529-7e12-7757-681850fc20d5/GUI/*
 
 # Editor files       #
@@ -37,20 +37,20 @@ story.debugInfo
 
 # Assets             #
 ######################
-*.gr2
-*.dae
-*.swf
-*.bullet
-*.dds
-*.tga
-*.png
-*.ttf
-*.lsb
-*.lsf
-*.lsfx
-*.lsefx
+#*.gr2
+#*.dae
+#*.swf
+#*.bullet
+#*.dds
+#*.tga
+#*.png
+#*.ttf
+#*.lsb
+#*.lsf
+#*.lsfx
+#*.lsefx
 #*.lsx
-*.lsmg
+#*.lsmg
 
 # Logs               #
 ######################
@@ -63,18 +63,18 @@ personallog.txt
 
 # Binary Files       #
 ######################
-*.dat
-*.data
-*.bik
-*.bnk
-*.bshd
-*.cur
-*.fnt
-*.iggy
-*.iggytex
-*.osi
-*.patch
-*.tmpl
+#*.dat
+#*.data
+#*.bik
+#*.bnk
+#*.bshd
+#*.cur
+#*.fnt
+#*.iggy
+#*.iggytex
+#*.osi
+#*.patch
+#*.tmpl
 
 # Dump files         #
 ######################
